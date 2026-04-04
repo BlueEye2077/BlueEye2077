@@ -18,6 +18,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://camo.githubusercontent.com/2ff9eee4a86690e9e9affcddb98b60f1106d96747503d39b83228ba8ca2d86ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d3030433443433f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465)
 
 # 📊 GitHub Stats:
+![Stats](./profile/stats.svg)
 ![](https://github-readme-stats.vercel.app/api?username=BlueEye2077&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BlueEye2077&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueEye2077&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)

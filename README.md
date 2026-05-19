@@ -38,6 +38,20 @@
 <img src="./profile/streak.svg" alt="GitHub Streak" width="48%" />
 
 </div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect & Collaborate
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-badawy-050ba8381/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.badawy@gmail.com)
+
+</div>
+
 <!--
 # 📊 GitHub Stats:
 

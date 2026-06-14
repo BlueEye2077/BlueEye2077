@@ -8,8 +8,8 @@
 
 </div>
 
-
-[![image1.jpg](https://i.postimg.cc/SRVc0j2p/image1.jpg)](https://postimg.cc/xNJXMf3s)
+<!--[![image1.jpg](https://i.postimg.cc/SRVc0j2p/image1.jpg)](https://postimg.cc/xNJXMf3s)-->
+[![tumblr-efba0da53984f03aac76548bc746365b-b3b3e8d5-2048.jpg](https://i.postimg.cc/nzVkqCSM/tumblr-efba0da53984f03aac76548bc746365b-b3b3e8d5-2048.jpg)](https://postimg.cc/QBP13x3r)
 
 ## 💻 Tech Stack
 

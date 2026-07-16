@@ -8,14 +8,14 @@
 
 </div>
 
-<!--[![image1.jpg](https://i.postimg.cc/SRVc0j2p/image1.jpg)](https://postimg.cc/xNJXMf3s)-->
-<!--[![tumblr-efba0da53984f03aac76548bc746365b-b3b3e8d5-2048.jpg](https://i.postimg.cc/K4h3rWvX/tumblr-efba0da53984f03aac76548bc746365b-b3b3e8d5-2048.jpg)](https://postimg.cc/dZn0J4yn)-->
+[![image1.jpg](https://i.postimg.cc/SRVc0j2p/image1.jpg)](https://postimg.cc/xNJXMf3s)
+<!--[![tumblr-efba0da53984f03aac76548bc746365b-b3b3e8d5-2048.jpg](https://i.postimg.cc/K4h3rWvX/tumblr-efba0da53984f03aac76548bc746365b-b3b3e8d5-2048.jpg)](https://postimg.cc/dZn0J4yn)
 
-<div align="center">
+<!-- <div align="center">
 
 [![tumblr-efba0da53984f03aac76548bc746365b-b3b3e8d5-2048.jpg](https://i.postimg.cc/nVg5Bf7P/tumblr-efba0da53984f03aac76548bc746365b-b3b3e8d5-2048.jpg)](https://postimg.cc/F1bDXqTy)
 
-</div>
+</div> -->
 
 ## 💻 Tech Stack
 
